@@ -1,5 +1,6 @@
 {
     "workbench.colorTheme": "Visual Studio Dark",
     "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.fontWeightBold": "normal"
+    "terminal.integrated.fontWeightBold": "normal",
+    "git.autofetch": true
 }
