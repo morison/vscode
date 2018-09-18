@@ -41,5 +41,15 @@
     {
         "key": "ctrl+cmd+1",
         "command": "-workbench.action.moveEditorToFirstGroup"
+    },
+    {
+        "key": "ctrl+k v",
+        "command": "markdown.showPreviewToSide",
+        "when": "editorLangId == 'markdown'"
+    },
+    {
+        "key": "cmd+k v",
+        "command": "-markdown.showPreviewToSide",
+        "when": "editorLangId == 'markdown'"
     }
 ]
